@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Java 8 Control Policy
+Comment=Java 8 Control Policy
+Exec=/opt/jdk1.8.0_271/jre/bin/jcontrol %u
+Terminal=false
+Type=Application
+Icon=/opt/jdk1.8.0_271/jre/lib/desktop/icons/LowContrast/48x48/apps/sun-jcontrol.png
+Categories=Application;Network;
